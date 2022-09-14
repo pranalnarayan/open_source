@@ -1,2 +1,2 @@
-# code-bank
-my codes and programs
+
+my codes available for punlic
